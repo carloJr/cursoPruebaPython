@@ -1,2 +1,2 @@
-# cursoPuedaPython
+# cursoPruebaPython
 iniciadome en python 
