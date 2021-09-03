@@ -1,0 +1,2 @@
+# cursoPruebaPython
+iniciadome en python 
