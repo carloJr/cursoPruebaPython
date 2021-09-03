@@ -1,3 +1,3 @@
 # cursoPruebaPython
 iniciadome en python 
-y prbando github
+y probando github
